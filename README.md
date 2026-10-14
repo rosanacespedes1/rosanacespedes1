@@ -5,9 +5,9 @@ Soy **Rosana**, desarrolladora Mobile especializada en **Flutter** 💙, con má
 Me mueve entender el problema completo, no solo resolverlo: trabajo codo a codo con Producto, UX/UI, QA, Backend y Arquitectura, desde la definición de la solución hasta su monitoreo en producción.
 
 - 📱 Últimamente: microapp de **Cards** para un banco digital (Flutter + Riverpod + BDUI) y su **BFF** en Node.js/TypeScript
-- 🏗️ Me gusta: Clean Architecture, microapps, Design Systems y testing (unit, widget, integración)
+- 🧩 Me gusta: Clean Architecture, microapps, Design Systems y testing (unit, widget, integración)
 - 🤖 Integro IA generativa (GitHub Copilot, Claude Code) a mi día a día
-- 🌱 Aprendiendo: más backend con Node.js y GraphQL
+- 💬 Aprendiendo: más backend con Node.js y GraphQL
 - 🗣️ Español y Guaraní nativos · Inglés intermedio
 
 ### 🛠️ Tecnologías
